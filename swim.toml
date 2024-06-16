@@ -1,0 +1,16 @@
+author = "Alex Hansen <alex@alex-hansen.com>"
+license = "MIT"
+
+[formatter]
+put_fn_params_on_new_lines = true
+use_set_notation_for_types = true
+join_comments = true
+newlines_between_items = 1
+newlines_between_comment_and_item = 0
+put_variants_on_new_lines = true
+put_list_elements_on_new_lines = false
+put_fn_body_on_new_line = true
+tab_size = 2
+max_line_length = 80
+put_fn_args_on_new_lines = false
+put_trailing_commas_on_let_bindings = false
