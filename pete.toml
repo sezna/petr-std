@@ -1,5 +1,6 @@
 author = "Alex Hansen <alex@alex-hansen.com>"
 license = "MIT"
+name = "std"
 
 [formatter]
 put_fn_params_on_new_lines = true
