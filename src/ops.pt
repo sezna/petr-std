@@ -1,0 +1,1 @@
+function add(lhs in 'int, rhs in 'int) returns 'int @add lhs, rhs
